@@ -11,3 +11,4 @@ Important note: **details are important!** lowercase vs uppercase / wrong letter
 | Name | Language | Concepts |
 |------|----------|----------|
 | 0x00-html\_advanced | HTML | Advanced HTML |
+| 0x01. Developer tools | HTML, CSS | Frontend, Developer tools|
