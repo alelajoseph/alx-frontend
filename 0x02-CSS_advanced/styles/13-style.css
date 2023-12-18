@@ -51,7 +51,7 @@ h6 {
 }
 
 body,
-a:not([href="#"]) {
+a {
     color: var(--text-color);
 }
 
