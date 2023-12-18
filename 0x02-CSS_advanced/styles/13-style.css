@@ -51,7 +51,7 @@ h6 {
 }
 
 body,
-a {
+a[href^="https://"] {
     color: var(--text-color);
 }
 
