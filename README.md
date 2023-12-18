@@ -8,7 +8,8 @@ Important note: **details are important!** lowercase vs uppercase / wrong letter
 
 ## Projects
 
-| Name | Language | Concepts |
-|------|----------|----------|
-| 0x00-html\_advanced | HTML | Advanced HTML |
-| 0x01. Developer tools | HTML, CSS | Frontend, Developer tools|
+| Name 			| Language 	| Concepts 			|
+|-----------------------|---------------|-------------------------------|
+| 0x00-html\_advanced 	| HTML 		| Advanced HTML 		|
+| 0x01. Developer tools | HTML, CSS 	| Frontend, Developer tools	|
+| 0x02. Advanced CSS	| CSS		| CSS Frontend			|
