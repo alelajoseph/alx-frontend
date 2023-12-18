@@ -55,7 +55,7 @@ a {
     color: var(--text-color);
 }
 
-a:not([href="#"]) {
+a[href^="https://"] {
     text-decoration: none;
 }
 
