@@ -51,23 +51,23 @@ h6 {
 }
 
 body,
-a:not([href="#"]) {
+a[href^="https://"] {
     color: var(--text-color);
 }
 
-a:not([href="#"]) {
+a[href^="https://"] {
     text-decoration: none;
 }
 
-a:not([href="#"]):visited {
+a[href^="https://"]:visited {
     font-style: italic;
 }
 
-a:not([href="#"]):hover {
+a[href^="https://"]:hover {
     text-decoration: underline;
 }
 
-a:not([href="#"]):active {
+a[href^="https://"]:active {
     background-color: var(--color-light-grey);
 }
 
