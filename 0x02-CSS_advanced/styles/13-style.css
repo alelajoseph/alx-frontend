@@ -50,13 +50,13 @@ h6 {
     font-weight: var(--font-weight-bold);
 }
 
-body,
-a[href^="https://"] {
+body {
     color: var(--text-color);
 }
 
-a[href^="https://"] {
+a:not([href="#"]) {
     text-decoration: none;
+    color: var(--text-color);
 }
 
 a:visited {
