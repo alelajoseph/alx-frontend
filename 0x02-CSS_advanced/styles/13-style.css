@@ -54,7 +54,7 @@ body {
     color: var(--text-color);
 }
 
-a:not([href="#"]) {
+a:link{
     text-decoration: none;
     color: var(--text-color);
 }
